@@ -1,0 +1,34 @@
+
+#main {
+    background: rgb(192, 189, 189);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+    
+    
+}
+
+}
+
+#img-div {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px 200px;
+    font-size:large
+
+
+}
+
+#image {
+    max-width: 100%
+}
